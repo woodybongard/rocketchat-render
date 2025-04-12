@@ -1,2 +1,1 @@
-touch Dockerfile
-open Dockerfile
+FROM rocketchat/rocket.chat:latest
