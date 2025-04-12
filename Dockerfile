@@ -5,5 +5,3 @@ ENV MONGO_URL=mongodb+srv://chatadmin:Ragnoo50%40@cluster0.ku6clsp.mongodb.net/?
 ENV PORT=3000
 
 EXPOSE 3000
-
-CMD ["node", "main.js"]
